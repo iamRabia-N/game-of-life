@@ -1,28 +1,32 @@
-html,
-#patterns {
-  font: 16px sans-serif;
-}
-
-body {
-  color: #fff;
-  background: #000;
-  text-align: center;
-}
-
-#patterns,
-canvas {
-  border-radius: 0.25rem;
-}
-
-#patterns {
-  width: 12.5rem;
-  padding: 0.375rem;
-}
-
-.disabled {
-  opacity: 0.5;
-}
-
-main {
-  padding: 1rem 0;
-}
+h1{
+  margin-top: 30px;
+  }
+  html,
+  #patterns {
+    font: 16px system-ui;
+  }
+  
+  body {
+    color: black;
+    background: #051b2600;
+    text-align: center;
+  }
+  
+  #patterns,
+  canvas {
+    border-radius: 0.25rem;
+  }
+  
+  #patterns {
+    width: 12.5rem;
+    padding: 0.375rem;
+  }
+  
+  .disabled {
+    opacity: 0.5;
+  }
+  
+  main {
+    padding: 1rem 0;
+  }
+  
